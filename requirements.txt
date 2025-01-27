@@ -1,1 +1,9 @@
-pip install requests beautifulsoup4 yfinance newsapi-python pandas python-dotenv
+requests 
+beautifulsoup4 
+yfinance 
+newsapi-python 
+pandas 
+python-dotenv 
+sqlalchemy 
+tenacity 
+fake-useragent
