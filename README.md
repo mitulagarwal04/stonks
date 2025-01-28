@@ -1,4 +1,4 @@
-i do stonks now ai do stonks 
+one way ticket to burn your money :fire emoji:
 
 DODO's 
 1. create an ai agent to scrape data from websites, there's shit load of html to parse.
