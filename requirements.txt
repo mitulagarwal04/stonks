@@ -7,3 +7,9 @@ python-dotenv
 sqlalchemy 
 tenacity 
 fake-useragent
+scrapy 
+playwright 
+psycopg2-binary 
+streamlit
+psycopg2-binary
+cryptography
