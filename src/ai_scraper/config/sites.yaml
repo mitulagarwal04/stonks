@@ -1,0 +1,18 @@
+reuters.com:
+  type: news
+  login_required: false
+  selectors:
+    title: "h1.article-header__title__3Y1vh"
+    content: "div.article-body__content__17Yit p"
+    date: "time::attr(datetime)"
+  start_url: "https://www.reuters.com/business/"
+
+yahoo.com/finance:
+  type: stocks
+  login_required: false
+  selectors:
+    title: "h1.D(ib) Fz(18px)"
+    content: "div#quote-summary"
+  start_url: "https://finance.yahoo.com/quote/AAPL"
+
+  
